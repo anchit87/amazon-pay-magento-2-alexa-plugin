@@ -4,7 +4,7 @@
 
 ### Pre-Requisites
 * Magento 2.3.0 and above
-* Amazon Pay module enabled
+* Amazon Pay module 3.0.0, enabled
 
 ## Alexa Delivery Notifications
 The Alexa Delivery Notifications feature lets you provide shipment tracking information to Amazon Pay so that Amazon Pay can notify buyers on Alexa when shipments are delivered.

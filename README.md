@@ -35,8 +35,8 @@ To obtain the `Public Key ID`, you will need to email Amazon Pay and provide the
 Once you have configured Alexa Delivery Notifications, your store is ready to use this feature.
 
 Alexa Delivery Notification is called when:
-* A shipment is submitted with the carrier code, name and tracking number
-* On a successful Alexa Delivery Tracker API, you will see its status as ‘Amazon Pay has received shipping tracking information for carrier <carrier_name> and tracking number <tracking_number>’. 
+* A shipment is submitted with the carrier code, name ,and tracking number
+* On a successful Alexa Delivery Tracker API, you will see its status as ‘Amazon Pay has received a shipping tracking information for carrier <carrier_name> and tracking number <tracking_number>’. 
 
 The status will show under:
    * ‘Comments History’ in the Order view.
